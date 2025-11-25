@@ -1,0 +1,5 @@
+{
+  "name": "【DBLP论文搜索】部署版2",
+  "description": "A specialized tool for computer science researchers to crawl, aggregate, and manage literature from DBLP with BibTeX support and analytics.",
+  "requestFramePermissions": []
+}
